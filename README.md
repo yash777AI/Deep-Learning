@@ -11,5 +11,6 @@ Reduced dataset size for faster computation.
 Used adjacency matrices instead of loops for efficient graph construction.
 Chose GCN over GAT for lower computational overhead.
 Implemented early stopping to enhance training efficiency.
+
 🔹 Real-World Impact
 This approach mirrors Netflix, Amazon, and YouTube's recommendation systems, ensuring faster and smarter content recommendations by learning from user behavior patterns rather than relying solely on raw ratings.
