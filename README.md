@@ -1,4 +1,4 @@
-# Deep-Learning Project
+# GNN-Based Movie Recommendation System (MovieLens Dataset)
 🔹 Built a Graph from User-Movie Interactions
 
 Transformed the dataset into a graph structure, treating movies as nodes and user ratings as edges to capture relationships between movies based on shared audience preferences.
